@@ -41,3 +41,21 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background Decoration
+    uniqueID: 1613686281
+    locked: 0
+  - name: Ground
+    uniqueID: 1070110335
+    locked: 0
+  - name: 'Ground Decoration '
+    uniqueID: 405556571
+    locked: 0
+  - name: Foreground Decoration
+    uniqueID: 102802345
+    locked: 0
+  - name: Instances
+    uniqueID: 354176831
+    locked: 0
+  - name: Collision
+    uniqueID: 3703966781
+    locked: 0
